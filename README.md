@@ -5,4 +5,4 @@ A basic implementation of a static treemap representation of simple, one-dimensi
 
 `npm install && gulp`
 
-![Example image](example.png)
+![Example image](Example.png)
